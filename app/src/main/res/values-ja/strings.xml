@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">仮想カルネ</string>
+    <string name="Carrera">Software Designer</string>
+    <string name="nombres_y_apellidos">姓名</string>
+    <string name="carrera">レース</string>
+</resources>

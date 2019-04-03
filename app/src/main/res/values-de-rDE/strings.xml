@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">" Virtuelles Carnet"</string>
+    <string name="nombres_y_apellidos">Vor- und Nachname</string>
+    <string name="carrera">Rennen</string>
+    <string name="Carrera">Software Designer</string>
+</resources>

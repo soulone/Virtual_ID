@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Carnet Virtual</string>
+    <string name="nombres_y_apellidos">Nombres y Apellidos</string>
+    <string name="carrera">Carrera</string>
+</resources>
